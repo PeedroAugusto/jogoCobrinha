@@ -1,0 +1,8 @@
+C:\Users\Pedro\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Release\net5.0-windows\JogoDaCobrinha.Form1.resources
+C:\Users\Pedro\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Release\net5.0-windows\JogoDaCobrinha.Login.resources
+C:\Users\Pedro\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Release\net5.0-windows\JogoDaCobrinha.Properties.Resources.resources
+C:\Users\Pedro\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Release\net5.0-windows\JogoDaCobrinha.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Release\net5.0-windows\JogoDaCobrinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Release\net5.0-windows\JogoDaCobrinha.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Release\net5.0-windows\JogoDaCobrinha.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Release\net5.0-windows\JogoDaCobrinha.csproj.CoreCompileInputs.cache
